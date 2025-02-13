@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DangerNoodle")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82a351274f129ff416e8dc53f8d080c741802fb3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e417e3d16ba3022e291ecf1b12e37ce29f94e49")]
 [assembly: System.Reflection.AssemblyProductAttribute("DangerNoodle")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DangerNoodle")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

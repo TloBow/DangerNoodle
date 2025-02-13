@@ -5,7 +5,7 @@ class Program
     static void Main(string[] args)
     {
         Board basicBoard = new Board(11, 11, false);
-        Noodle noodle = new Noodle(basicBoard, 4, 6);
+        Noodle noodle = new Noodle(basicBoard, 4, 3);
 
         noodle.SpawnNoodle();
         basicBoard.SpawnApple();

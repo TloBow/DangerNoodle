@@ -61,6 +61,13 @@ public class Noodle
             noodleY++;
         }
 
+        if (pastSteps.Count >= length)
+        {
+            int[] tailPos = pastSteps[pastSteps.Count - length];
+
+            board.board[tailPos[0], tailPos[1]] = 0;
+        }
+
         board.board[noodleX, noodleY] += 5;
 
         if(board.board[noodleX, noodleY] == 6)
@@ -73,13 +80,6 @@ public class Noodle
         if(board.board[noodleX, noodleY] >= 10)
         {
             board.gameEnd = true;
-        }
-        
-        if (pastSteps.Count >= length)
-        {
-            int[] tailPos = pastSteps[pastSteps.Count - length];
-
-            board.board[tailPos[0], tailPos[1]] = 0;
         }
     }
 
