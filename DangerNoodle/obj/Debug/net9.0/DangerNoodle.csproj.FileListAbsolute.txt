@@ -1,0 +1,14 @@
+G:\ProgrammingFun\DangerNoodle\DangerNoodle\bin\Debug\net9.0\DangerNoodle.exe
+G:\ProgrammingFun\DangerNoodle\DangerNoodle\bin\Debug\net9.0\DangerNoodle.deps.json
+G:\ProgrammingFun\DangerNoodle\DangerNoodle\bin\Debug\net9.0\DangerNoodle.runtimeconfig.json
+G:\ProgrammingFun\DangerNoodle\DangerNoodle\bin\Debug\net9.0\DangerNoodle.dll
+G:\ProgrammingFun\DangerNoodle\DangerNoodle\bin\Debug\net9.0\DangerNoodle.pdb
+G:\ProgrammingFun\DangerNoodle\DangerNoodle\obj\Debug\net9.0\DangerNoodle.GeneratedMSBuildEditorConfig.editorconfig
+G:\ProgrammingFun\DangerNoodle\DangerNoodle\obj\Debug\net9.0\DangerNoodle.AssemblyInfoInputs.cache
+G:\ProgrammingFun\DangerNoodle\DangerNoodle\obj\Debug\net9.0\DangerNoodle.AssemblyInfo.cs
+G:\ProgrammingFun\DangerNoodle\DangerNoodle\obj\Debug\net9.0\DangerNoodle.csproj.CoreCompileInputs.cache
+G:\ProgrammingFun\DangerNoodle\DangerNoodle\obj\Debug\net9.0\DangerNoodle.dll
+G:\ProgrammingFun\DangerNoodle\DangerNoodle\obj\Debug\net9.0\refint\DangerNoodle.dll
+G:\ProgrammingFun\DangerNoodle\DangerNoodle\obj\Debug\net9.0\DangerNoodle.pdb
+G:\ProgrammingFun\DangerNoodle\DangerNoodle\obj\Debug\net9.0\DangerNoodle.genruntimeconfig.cache
+G:\ProgrammingFun\DangerNoodle\DangerNoodle\obj\Debug\net9.0\ref\DangerNoodle.dll
