@@ -12,3 +12,4 @@ G:\ProgrammingFun\DangerNoodle\DangerNoodle\obj\Debug\net9.0\refint\DangerNoodle
 G:\ProgrammingFun\DangerNoodle\DangerNoodle\obj\Debug\net9.0\DangerNoodle.pdb
 G:\ProgrammingFun\DangerNoodle\DangerNoodle\obj\Debug\net9.0\DangerNoodle.genruntimeconfig.cache
 G:\ProgrammingFun\DangerNoodle\DangerNoodle\obj\Debug\net9.0\ref\DangerNoodle.dll
+G:\ProgrammingFun\DangerNoodle\DangerNoodle\obj\Debug\net9.0\DangerNoodle.sourcelink.json
