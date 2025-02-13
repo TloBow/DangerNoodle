@@ -1,2 +1,5 @@
 /.vscode
 /DangerNoodle.sln
+/DangerNoodle/bin
+/DangerNoodle/obj
+/DangerNoodle/DangerNoodle.csproj
